@@ -1,0 +1,36 @@
+{
+  "motos": [
+    {
+      "id": "4e68",
+      "code": "#0001",
+      "model": "HONDA POP 110I",
+      "status": "Em estoque",
+      "price": "R$ 15.000,00",
+      "color": "BRANCA"
+    },
+    {
+      "id": "5867",
+      "code": "#0002",
+      "model": "HONDA 500X",
+      "status": "Sem estoque",
+      "price": "R$ 50.000,00",
+      "color": "VERMELHA"
+    },
+    {
+      "id": "f381",
+      "code": "#0003",
+      "model": "HONDA CB 300F TWISTER",
+      "status": "Em trânsito",
+      "price": "R$ 30.000,00",
+      "color": "PRETA"
+    },
+    {
+      "id": "c9bc",
+      "code": "#0006",
+      "model": "mt-10",
+      "status": "Em estoque",
+      "price": "55.000,00",
+      "color": "preta"
+    }
+  ]
+}
